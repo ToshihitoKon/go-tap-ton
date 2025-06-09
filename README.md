@@ -1,5 +1,7 @@
 # go-tap-ton
 
+> **Note: This repository has been archived.** The project has been moved to [agent-works](https://github.com/ToshihitoKon/agent-works) repository as a subdirectory.
+
 A minimalist terminal-based tap tempo analyzer written in Go.
 
 ## Features
